@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 flaskey_setdev.egg-info/PKG-INFO
 flaskey_setdev.egg-info/SOURCES.txt

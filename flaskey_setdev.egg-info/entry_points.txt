@@ -1,2 +1,2 @@
 [console_scripts]
-create-project = projgen.cli:main
+create-project = flaskey_setdev.cli:main

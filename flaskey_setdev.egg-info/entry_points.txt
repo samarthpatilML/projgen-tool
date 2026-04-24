@@ -1,0 +1,2 @@
+[console_scripts]
+create-project = flaskey_setdev.cli:main
